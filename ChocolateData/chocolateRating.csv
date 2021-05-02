@@ -1,0 +1,2225 @@
+﻿id,review_date,country_of_bean_origin,cocoa_percent,rating
+0,2019,Madagascar,76,3.75
+1,2019,Dominican republic,76,3.5
+2,2019,Tanzania,76,3.25
+3,2012,Peru,63,3.75
+4,2012,Bolivia,70,3.5
+5,2013,Venezuela,70,4
+6,2013,Peru,63,4
+7,2013,Ecuador,70,3.75
+8,2013,Peru,70,3.5
+9,2013,Brazil,70,3.25
+10,2013,Papua new guinea,70,3.25
+11,2013,Peru,70,3.25
+12,2013,Madagascar,70,3
+13,2013,Burma,70,3
+14,2013,Panama,70,2.75
+15,2013,Colombia,70,2.75
+16,2014,Peru,70,4
+17,2014,Venezuela,70,3.75
+18,2014,Cuba,70,3.5
+19,2014,Venezuela,70,3.5
+20,2014,Venezuela,70,2.75
+21,2015,Togo,70,3.5
+22,2015,Peru,70,3.5
+23,2015,Togo,70,3
+24,2015,Togo,70,2.75
+25,2016,Sao tome,63,3.75
+26,2018,Peru,63,3.75
+27,2018,Venezuela,70,3.5
+28,2015,Peru,70,3.75
+29,2015,Peru,70,3.75
+30,2020,Peru,70,3.5
+31,2020,Mexico,74,3.25
+32,2011,Fiji,88,3.5
+33,2011,Fiji,72,3.5
+34,2011,Fiji,80,3.25
+35,2011,Fiji,60,2.75
+36,2019,Vanuatu,70,3
+37,2019,Vanuatu,70,2.75
+38,2019,Vanuatu,70,2.75
+39,2019,Vanuatu,70,2.5
+40,2009,Ecuador,70,3
+41,2009,Ecuador,55,2.75
+42,2009,Mexico,70,3
+43,2010,Madagascar,75,2.75
+44,2010,Brazil,75,2.75
+45,2011,Indonesia,75,3.75
+46,2013,Venezuela,75,2.5
+47,2013,Peru,75,2.5
+48,2014,Madagascar,75,3
+49,2014,Trinidad,65,2.75
+50,2014,Vietnam,75,2.75
+51,2017,Mexico,75,3.5
+52,2017,Ecuador,70,3.5
+53,2017,Nicaragua,70,3.5
+54,2017,Tanzania,70,3.5
+55,2017,Vietnam,70,3.5
+56,2013,Bolivia,80,3.25
+57,2013,Peru,60,3.25
+58,2013,Dominican republic,60,3
+59,2013,Bolivia,60,3
+60,2013,Venezuela,60,2.5
+61,2016,Peru,60,3
+62,2016,Nicaragua,60,2.75
+63,2016,Ecuador,60,2.75
+64,2016,Bolivia,60,2.5
+65,2016,Peru,60,2.5
+66,2018,Dominican republic,70,3
+67,2007,Venezuela,70,3.75
+68,2007,Madagascar,70,3.5
+69,2007,Venezuela,70,3
+70,2008,Indonesia,70,2.75
+71,2009,Venezuela,70,3
+72,2010,Ecuador,70,4
+73,2010,Dominican republic,70,3.75
+74,2010,Venezuela,70,3
+75,2011,Papua new guinea,70,4
+76,2009,Ghana,70,3
+77,2009,Ghana,85,3
+78,2009,Ecuador,70,2.75
+79,2009,Ecuador,85,2.75
+80,2013,Peru,73,3.5
+81,2013,Peru,72,3.25
+82,2015,Peru,68,3.5
+83,2015,Madagascar,66,3.25
+84,2015,Dominican republic,75,3.25
+85,2015,Papua new guinea,63,3.25
+86,2015,Venezuela,70,3.25
+87,2015,Belize,64,3
+88,2006,Blend,66,3.75
+89,2007,Venezuela,70,3.75
+90,2007,Grenada,70,3.5
+91,2007,Trinidad,70,3.5
+92,2007,Blend,63,3.5
+93,2007,Ecuador,70,3
+94,2007,Jamaica,70,3
+95,2012,Peru,70,3.75
+96,2018,Blend,75,3.5
+97,2018,Madagascar,70,3
+98,2018,Venezuela,70,3
+99,2018,Venezuela,70,3
+100,2019,Blend,70,2.75
+101,2010,Brazil,60,4
+102,2010,Brazil,50,3.75
+103,2010,Brazil,75,3.75
+104,2010,Brazil,85,2.75
+105,2013,Brazil,75,3.25
+106,2014,Dominican republic,75,3
+107,2016,Bolivia,75,3.5
+108,2014,Madagascar,75,3
+109,2014,Venezuela,75,3
+110,2014,Ecuador,75,2.75
+111,2014,Mexico,72,2.5
+112,2015,Nicaragua,70,4
+113,2015,Ecuador,70,3.75
+114,2015,Belize,70,3.75
+115,2015,Brazil,70,3.5
+116,2015,Peru,68,3.5
+117,2015,Dominican republic,70,3.5
+118,2015,Ecuador,75,3.5
+119,2015,Guatemala,70,3.25
+120,2015,Brazil,75,2.75
+121,2016,Costa rica,70,4
+122,2016,Peru,70,4
+123,2016,Tanzania,70,3.75
+124,2016,Nicaragua,70,3.75
+125,2016,Dominican republic,70,3.75
+126,2016,Trinidad,70,3.5
+127,2016,Vietnam,73,3.5
+128,2016,Guatemala,70,3.5
+129,2016,Honduras,70,3.5
+130,2016,Ecuador,70,3.25
+131,2016,Ecuador,70,3.25
+132,2016,Fiji,70,3.25
+133,2016,Vietnam,73,3.25
+134,2017,Bolivia,70,4
+135,2017,Haiti,70,4
+136,2017,India,70,3.5
+137,2017,Madagascar,70,3.5
+138,2017,Vietnam,73,3.5
+139,2017,Peru,70,3.5
+140,2018,Colombia,70,4
+141,2018,Trinidad,70,3
+142,2019,India,70,3.25
+143,2019,India,70,3
+144,2018,Nicaragua,70,3.5
+145,2018,Nicaragua,70,3.5
+146,2018,Nicaragua,70,3.25
+147,2018,Nicaragua,70,3
+148,2008,Congo,72,3.75
+149,2009,Dominican republic,72,3.25
+150,2009,Madagascar,80,3
+151,2009,Peru,75,3
+152,2009,Indonesia,72,2.75
+153,2009,Venezuela,75,2.5
+154,2009,Brazil,72,1.75
+155,2010,Jamaica,72,3.75
+156,2010,Indonesia,72,3.5
+157,2010,Costa rica,72,3.25
+158,2010,Vietnam,72,3.25
+159,2011,Haiti,72,4
+160,2011,Panama,72,2.75
+161,2012,Colombia,72,3.75
+162,2013,Trinidad,72,3.25
+163,2013,Colombia,72,2.75
+164,2007,Ecuador,70,3
+165,2007,Mexico,75,2.5
+166,2009,Philippines,77,3.75
+167,2011,Tanzania,72,3.75
+168,2011,Honduras,70,3.75
+169,2016,Tanzania,68,3.75
+170,2019,Solomon islands,70,3
+171,2018,Philippines,70,3.5
+172,2018,Philippines,70,3
+173,2018,Philippines,70,3
+174,2018,Philippines,77,2.75
+175,2012,Madagascar,70,3
+176,2012,Brazil,70,2.5
+177,2012,Blend,70,2.5
+178,2015,Papua new guinea,70,3.5
+179,2015,Blend,80,3.25
+180,2018,Brazil,70,3
+181,2015,Peru,70,3.5
+182,2015,Peru,70,2.75
+183,2019,Tanzania,72,3.25
+184,2019,Uganda,82,2.75
+185,2019,Belize,72,2.5
+186,2012,Madagascar,70,3.75
+187,2012,Mexico,70,3.5
+188,2012,Dominican republic,70,3.25
+189,2014,Peru,70,4
+190,2015,Brazil,70,3.5
+191,2017,Costa rica,72,3.5
+192,2017,Trinidad,80,3.5
+193,2012,Costa rica,80,2.75
+194,2016,Brazil,70,3.75
+195,2016,Dominican republic,65,3.5
+196,2016,Ecuador,65,3.25
+197,2019,Peru,70,2.25
+198,2017,Malaysia,72,3.25
+199,2017,Malaysia,73,3
+200,2016,Brazil,80,2.75
+201,2016,Dominican republic,70,2.75
+202,2016,Ecuador,70,2.75
+203,2016,Ecuador,90,2.75
+204,2010,Ecuador,71,3.5
+205,2010,Costa rica,64,2.75
+206,2010,Papua new guinea,64,2.75
+207,2010,Peru,64,2.75
+208,2016,Tanzania,70,3.5
+209,2016,Dominican republic,70,3.5
+210,2016,Bolivia,70,3.25
+211,2018,Vietnam,75,3.25
+212,2016,Belize,83,3.5
+213,2016,Belize,78,3
+214,2016,Belize,83,2.75
+215,2018,Vietnam,72,3
+216,2018,India,72,3
+217,2018,Malaysia,72,3
+218,2011,Indonesia,72,4
+219,2011,Madagascar,72,3.75
+220,2013,Ecuador,73,4
+221,2013,Cuba,74,3.5
+222,2013,Venezuela,74,3.5
+223,2013,Venezuela,74,3.5
+224,2012,Blend,55,2.75
+225,2010,Indonesia,64,3.5
+226,2010,Venezuela,72,3.5
+227,2010,Venezuela,70,3.25
+228,2010,Venezuela,74,3.25
+229,2011,Ecuador,72,4
+230,2011,Venezuela,72,3.5
+231,2011,Madagascar,64,3
+232,2011,Venezuela,88,3
+233,2015,Belize,86,3.25
+234,2015,Nicaragua,76,2.5
+235,2015,Costa rica,76,2.5
+236,2015,Costa rica,78,2.5
+237,2018,Venezuela,70,3.5
+238,2018,Venezuela,70,3
+239,2018,Venezuela,70,3
+240,2008,Dominican republic,68,3.75
+241,2008,Panama,75,3.5
+242,2008,Madagascar,71,3
+243,2008,Ghana,70,3
+244,2009,Dominican republic,65,3.5
+245,2009,Madagascar,65,3.5
+246,2009,Madagascar,75,3.25
+247,2009,Dominican republic,75,3
+248,2010,Blend,70,3.75
+249,2010,Indonesia,75,3.25
+250,2010,Madagascar,70,3
+251,2010,Venezuela,78,3
+252,2010,Indonesia,65,2.75
+253,2012,Ghana,72,3.5
+254,2018,Dominican republic,70,3.25
+255,2018,Haiti,70,3
+256,2018,Guatemala,70,3
+257,2019,Belize,70,2.75
+258,2008,Nicaragua,70,3
+259,2008,Dominican republic,70,2.75
+260,2008,Venezuela,70,2.75
+261,2014,Jamaica,70,2.75
+262,2009,Blend,72,2.75
+263,2013,Congo,82,3.5
+264,2012,Madagascar,70,3.75
+265,2012,Guatemala,70,3.5
+266,2016,Madagascar,82,3.5
+267,2016,Tanzania,75,3.5
+268,2016,Dominican republic,75,3
+269,2016,Guatemala,75,2.75
+270,2017,Belize,70,2.75
+271,2019,Malaysia,74,3.25
+272,2019,Malaysia,72,2.75
+273,2019,Malaysia,68,2.5
+274,2006,Venezuela,75,4
+275,2006,Venezuela,75,4
+276,2006,Blend,75,3.75
+277,2006,Venezuela,75,3.75
+278,2006,Madagascar,75,3.75
+279,2006,Sri lanka,75,3
+280,2007,Ecuador,75,2.5
+281,2008,Venezuela,75,4
+282,2009,Ivory coast,75,3
+283,2009,Mexico,75,3
+284,2009,Mexico,75,3
+285,2009,Peru,75,2.75
+286,2011,Haiti,75,4
+287,2011,Madagascar,75,4
+288,2011,Brazil,75,3.75
+289,2011,Cuba,75,3.5
+290,2011,Peru,75,3.5
+291,2011,Peru,75,3.5
+292,2011,Brazil,75,3.5
+293,2011,Jamaica,75,3.25
+294,2013,Brazil,75,3.5
+295,2013,Gabon,75,3.25
+296,2014,Brazil,75,4
+297,2014,Blend,65,3.75
+298,2014,Dominican republic,75,3.25
+299,2016,Mexico,75,3.5
+300,2018,Peru,75,4
+301,2018,Blend,75,4
+302,2009,Ecuador,77,3.25
+303,2018,Dominican republic,72,3.25
+304,2018,Peru,70,3.75
+305,2018,Ecuador,75,3.5
+306,2013,Ghana,75,3.5
+307,2013,Venezuela,85,3.5
+308,2013,Ecuador,70,3.25
+309,2013,Dominican republic,72,3
+310,2014,Venezuela,70,4
+311,2014,Belize,70,3.75
+312,2015,Dominican republic,68,3.75
+313,2016,Nicaragua,70,3.75
+314,2016,Venezuela,70,3.5
+315,2017,Ecuador,75,3.75
+316,2017,Dominican republic,70,3.25
+317,2018,Bolivia,70,4
+318,2015,Guatemala,70,3.5
+319,2015,Dominican republic,80,3.25
+320,2015,Belize,80,3.25
+321,2015,Madagascar,60,3.25
+322,2015,Dominican republic,60,3
+323,2015,Madagascar,80,2.75
+324,2013,Jamaica,70,3
+325,2014,Dominican republic,70,3.5
+326,2014,Ecuador,72,3.5
+327,2014,Madagascar,72,3
+328,2014,Trinidad,68,2.75
+329,2015,Ecuador,70,3.25
+330,2013,Dominican republic,68,2.75
+331,2018,Guatemala,70,3
+332,2018,Bolivia,70,2.5
+333,2014,Ecuador,72,3.5
+334,2014,Trinidad,72,3.25
+335,2014,Belize,72,3.25
+336,2014,Blend,72,3.25
+337,2014,Ecuador,60,2.5
+338,2019,Ecuador,70,3
+339,2019,Philippines,70,3.5
+340,2019,Taiwan,70,3.25
+341,2019,Bolivia,70,3.75
+342,2019,Guatemala,70,3.5
+343,2019,Guatemala,70,3
+344,2015,Puerto rico,70,2.5
+345,2010,Dominican republic,75,2.75
+346,2010,Dominican republic,75,2.5
+347,2010,Venezuela,75,2.25
+348,2014,Peru,75,2.5
+349,2007,Mexico,66,3
+350,2007,Venezuela,72,2
+351,2008,Tanzania,75,2
+352,2010,Dominican republic,70,3
+353,2016,Haiti,65,3.5
+354,2018,Colombia,72,3.75
+355,2018,Colombia,72,3
+356,2018,Colombia,72,2.5
+357,2014,Venezuela,70,3.75
+358,2014,Venezuela,75,3.5
+359,2014,Venezuela,74,3.25
+360,2014,Venezuela,75,2.5
+361,2015,Venezuela,77,3.5
+362,2015,Venezuela,74,3.25
+363,2015,Venezuela,75,3.25
+364,2018,Venezuela,75,2.75
+365,2019,Venezuela,70,3
+366,2019,Venezuela,75,2.5
+367,2014,Colombia,64,3.5
+368,2014,Colombia,70,3.5
+369,2014,Colombia,70,3.25
+370,2014,Colombia,69,2.75
+371,2015,Colombia,72,3.75
+372,2016,Colombia,71,3.75
+373,2016,Colombia,74,3.75
+374,2016,Honduras,70,3.5
+375,2011,Dominican republic,66,3.75
+376,2011,Dominican republic,65,3.25
+377,2011,Dominican republic,72,3
+378,2012,Dominican republic,72,3.75
+379,2009,Mexico,70,4
+380,2009,Mexico,70,4
+381,2010,Papua new guinea,71,4
+382,2010,Ecuador,71,3.75
+383,2010,Madagascar,71,3.5
+384,2010,Venezuela,71,3.5
+385,2010,Venezuela,77,3.5
+386,2010,Grenada,71,3.25
+387,2016,Congo,70,3.5
+388,2015,Vietnam,70,3.5
+389,2015,Peru,70,3.25
+390,2015,Madagascar,70,3
+391,2019,Peru,70,3
+392,2013,Peru,70,3.25
+393,2008,Ecuador,63,3.5
+394,2008,Ecuador,71,3.5
+395,2008,Ecuador,82,2.5
+396,2008,Ecuador,91,1.5
+397,2011,Trinidad,70,2.5
+398,2011,Sao tome,78,2.25
+399,2012,Venezuela,80,3
+400,2013,Ecuador,100,3.5
+401,2014,Blend,70,3.5
+402,2014,Dominican republic,72,3
+403,2014,Cuba,75,2.5
+404,2016,Brazil,70,3.25
+405,2016,Venezuela,70,3
+406,2016,Bolivia,75,3
+407,2016,Tanzania,73,2.75
+408,2016,Venezuela,75,2.5
+409,2008,Ecuador,55,3.5
+410,2008,Ecuador,55,3.25
+411,2008,Ecuador,55,3
+412,2008,Ecuador,77,2.75
+413,2008,Ecuador,77,2.5
+414,2008,Ecuador,77,2
+415,2014,Papua new guinea,70,3.75
+416,2014,Papua new guinea,70,3.5
+417,2012,Costa rica,72,3
+418,2012,Costa rica,80,2.75
+419,2015,Guatemala,72,3.5
+420,2015,Costa rica,72,3.5
+421,2015,Costa rica,72,3.25
+422,2016,Colombia,65,3.5
+423,2016,Colombia,65,3.5
+424,2016,Colombia,65,3.25
+425,2016,Colombia,65,3.25
+426,2016,Colombia,65,3
+427,2018,Blend,75,2
+428,2019,Brazil,65,3.25
+429,2019,Brazil,71,3
+430,2013,Dominican republic,73,3.5
+431,2013,Venezuela,70,3.25
+432,2013,Nicaragua,72,3.25
+433,2013,Bolivia,70,3
+434,2013,Venezuela,72,3
+435,2013,Peru,70,2.75
+436,2013,Peru,70,2.5
+437,2014,Colombia,72,3.5
+438,2014,Colombia,76,3.5
+439,2014,Dominican republic,70,2.75
+440,2015,Dominican republic,70,3.75
+441,2015,Honduras,72,3.5
+442,2015,Venezuela,72,3.5
+443,2016,Belize,72,4
+444,2017,Venezuela,70,3.25
+445,2019,Mexico,70,3.75
+446,2019,Puerto rico,70,3.5
+447,2014,Bolivia,70,3
+448,2014,Peru,70,2.75
+449,2014,Venezuela,70,2.75
+450,2014,Ecuador,70,2.5
+451,2014,Uganda,70,2.75
+452,2017,Bolivia,74,3
+453,2018,Venezuela,68,3.5
+454,2016,Belize,70,3.25
+455,2008,Ecuador,75,3
+456,2010,Ecuador,55,2.75
+457,2014,Costa rica,70,3.5
+458,2018,Peru,72,3
+459,2019,Ecuador,72,3.5
+460,2015,Ecuador,70,3.25
+461,2014,Belize,82,3.25
+462,2014,Belize,75,3
+463,2015,Malaysia,70,3.5
+464,2015,Vietnam,70,2.75
+465,2019,Dominican republic,71,3.25
+466,2019,Nicaragua,72,2.5
+467,2015,Peru,65,2.75
+468,2015,Peru,65,2.5
+469,2015,Dominican republic,80,2.5
+470,2019,Madagascar,74,3
+471,2011,Madagascar,70,3.75
+472,2011,Venezuela,68,3.75
+473,2016,Peru,90,2.5
+474,2016,Blend,80,2.5
+475,2016,Ecuador,70,3.25
+476,2016,Dominican republic,60,3
+477,2016,Dominican republic,75,3
+478,2016,Venezuela,80,3
+479,2016,Uganda,70,2.75
+480,2016,Nicaragua,80,2.75
+481,2016,Bolivia,70,2.5
+482,2014,Peru,74,2.75
+483,2015,Peru,80,3.75
+484,2015,Congo,68,3.5
+485,2015,Dominican republic,75,3.25
+486,2012,Madagascar,72,3.25
+487,2012,Peru,68,2.75
+488,2012,Ecuador,82,2.5
+489,2013,Peru,70,3.75
+490,2015,Peru,69,3.75
+491,2015,Venezuela,80,3.75
+492,2019,India,70,3
+493,2014,Mexico,70,2.5
+494,2018,Guatemala,76,2.75
+495,2018,Peru,70,2.75
+496,2018,India,63,2.5
+497,2007,Blend,70,3
+498,2007,Ecuador,71,2.5
+499,2007,Grenada,71,2.5
+500,2008,Venezuela,71,3.5
+501,2009,Blend,60,3.25
+502,2009,Blend,75,3.25
+503,2010,Madagascar,71,3.5
+504,2010,Mexico,71,3.25
+505,2015,Mexico,65,2.5
+506,2015,Mexico,75,2.5
+507,2009,Brazil,70,3
+508,2009,Brazil,80,3
+509,2009,Venezuela,70,3
+510,2009,Mexico,70,2.75
+511,2009,Venezuela,80,2.5
+512,2013,Martinique,42,2.75
+513,2016,Mexico,75,3.25
+514,2018,Peru,70,2.75
+515,2018,Peru,75,3.75
+516,2019,Brazil,70,4
+517,2019,Dominican republic,72,3.75
+518,2019,Ecuador,73,3.5
+519,2019,Tanzania,72,3.5
+520,2019,Costa rica,70,3.25
+521,2019,Vietnam,72,3
+522,2009,Venezuela,61,3
+523,2010,Venezuela,77,2.75
+524,2008,Blend,75,3.75
+525,2008,Blend,80,3
+526,2010,Blend,73.5,3.75
+527,2015,Ecuador,73,3.5
+528,2020,Peru,70,3.5
+529,2019,St. lucia,70,2.25
+530,2015,Madagascar,75,3
+531,2015,Ecuador,76,3.5
+532,2016,Vietnam,78,2.75
+533,2007,Madagascar,72,3
+534,2008,Mexico,72,3
+535,2008,Venezuela,72,3
+536,2009,Venezuela,70,3.75
+537,2009,Venezuela,70,3.5
+538,2009,Peru,62,3.25
+539,2009,Peru,72,3
+540,2010,Grenada,72,3.25
+541,2010,Jamaica,72,3.25
+542,2010,Venezuela,72,3.25
+543,2010,Venezuela,70,3
+544,2010,Trinidad,72,3
+545,2010,Ecuador,72,2.5
+546,2012,Blend,72,3.75
+547,2012,Ghana,85,3.5
+548,2012,Madagascar,70,3.5
+549,2013,Ecuador,65,3.25
+550,2017,Ghana,75,3.75
+551,2012,Papua new guinea,75,3.5
+552,2012,Tanzania,75,3.25
+553,2012,Brazil,65,3.25
+554,2012,Fiji,67,3.25
+555,2012,Vanuatu,64,3.25
+556,2014,Vanuatu,83,2.75
+557,2014,Papua new guinea,70,2.5
+558,2016,Ecuador,73,3.75
+559,2016,Ecuador,85,3.25
+560,2020,Honduras,70,3.5
+561,2020,Dominican republic,70,3.25
+562,2020,Colombia,70,3.25
+563,2011,Australia,70,3.25
+564,2015,Australia,70,2.75
+565,2017,Dominican republic,72,2.75
+566,2015,Ecuador,70,3.5
+567,2015,Trinidad,70,3
+568,2015,Nicaragua,70,2.75
+569,2015,Grenada,70,2.25
+570,2018,Blend,65,2.5
+571,2012,Dominican republic,70,3.75
+572,2012,Colombia,70,3.25
+573,2012,Costa rica,70,3
+574,2013,Venezuela,70,3.5
+575,2013,Papua new guinea,70,3.5
+576,2013,Venezuela,70,3.25
+577,2013,Venezuela,70,2.75
+578,2014,Dominican republic,70,3.75
+579,2014,Belize,70,3.5
+580,2014,Ecuador,70,3.5
+581,2014,Liberia,70,2.75
+582,2015,Belize,70,3
+583,2016,Dominican republic,70,3.75
+584,2017,Costa rica,70,3
+585,2018,India,70,3.5
+586,2018,Honduras,70,3.25
+587,2018,Sierra leone,70,3
+588,2019,Vietnam,70,3.5
+589,2011,Dominican republic,70,3.25
+590,2011,Madagascar,70,3.25
+591,2011,Tanzania,70,3.25
+592,2009,Guatemala,60,3.25
+593,2009,Guatemala,75,3
+594,2011,Guatemala,60,3.5
+595,2012,Guatemala,70,4
+596,2012,Guatemala,70,3.75
+597,2012,Madagascar,70,3.75
+598,2012,Guatemala,70,3.25
+599,2012,Venezuela,75,3
+600,2014,Guatemala,82,3.25
+601,2016,Blend,70,3.25
+602,2016,Vietnam,72,3
+603,2016,Venezuela,72,2.75
+604,2019,Vietnam,70,3.25
+605,2019,Peru,72,3
+606,2015,Venezuela,70,3.25
+607,2015,Ecuador,70,3.25
+608,2015,Madagascar,70,3
+609,2015,Tanzania,70,3
+610,2016,Bolivia,75,3.25
+611,2012,Blend,58,3.25
+612,2013,Dominican republic,70,2.75
+613,2013,Venezuela,70,2.75
+614,2013,Ghana,70,2.5
+615,2015,Brazil,72,3.5
+616,2015,Brazil,65,3.5
+617,2016,Madagascar,70,3
+618,2016,Uganda,70,2.5
+619,2007,Costa rica,64,3
+620,2007,Ecuador,71,3
+621,2007,Ghana,60,3
+622,2007,Papua new guinea,64,3
+623,2007,Peru,64,3
+624,2007,Madagascar,66,2.5
+625,2008,Venezuela,66,3.75
+626,2009,Papua new guinea,64,3
+627,2018,Dominican republic,80,3
+628,2018,Dominican republic,70,2.6
+629,2018,Dominican republic,70,2.5
+630,2016,Tanzania,72,2.5
+631,2019,Guatemala,72,3
+632,2007,Costa rica,77,3.5
+633,2007,Dominican republic,77,3.5
+634,2008,Bolivia,80,2.75
+635,2011,Ecuador,70,3.25
+636,2011,Dominican republic,74,3
+637,2011,Madagascar,80,2.75
+638,2011,Venezuela,75,2.75
+639,2012,Bolivia,75,2.75
+640,2013,Ecuador,76,3.5
+641,2013,Ecuador,70,3.25
+642,2014,Dominican republic,74,3.5
+643,2015,Bolivia,70,3.75
+644,2016,Vietnam,78,3.5
+645,2017,Solomon islands,72,4
+646,2017,Guatemala,70,3.75
+647,2017,Brazil,75,3.75
+648,2018,Fiji,80,3.75
+649,2019,Belize,72,4
+650,2019,Madagascar,72,3.75
+651,2020,Blend,73,3.5
+652,2019,Sao tome,65,3
+653,2019,Sao tome,75,3
+654,2019,Sao tome,70,2.75
+655,2019,Sao tome,75,2.5
+656,2014,Nicaragua,72,3.5
+657,2014,Panama,72,3.25
+658,2014,Venezuela,72,3.25
+659,2015,Venezuela,85,3
+660,2006,Blend,70,1.5
+661,2008,Blend,88,3
+662,2006,Venezuela,70,3.5
+663,2006,Peru,70,3.25
+664,2006,Venezuela,70,3
+665,2007,Venezuela,70,4
+666,2007,Ecuador,70,4
+667,2007,Venezuela,70,4
+668,2007,Indonesia,70,3.75
+669,2007,Madagascar,70,3.5
+670,2007,Madagascar,70,3.5
+671,2007,Venezuela,75,3.25
+672,2007,Venezuela,60,3.25
+673,2008,Blend,70,3.75
+674,2008,Blend,78,3.5
+675,2008,Venezuela,70,3
+676,2008,Colombia,70,3
+677,2010,Venezuela,70,3
+678,2011,Venezuela,70,3.5
+679,2012,Venezuela,70,3.75
+680,2012,Tanzania,70,3.5
+681,2015,Ecuador,70,3.75
+682,2015,Venezuela,70,3.75
+683,2018,Tanzania,70,4
+684,2015,Colombia,80,2.75
+685,2015,Madagascar,77,2.75
+686,2015,Venezuela,70,2.5
+687,2016,Grenada,75,2.75
+688,2018,Guatemala,72,3.5
+689,2018,Peru,80,3.5
+690,2018,Philippines,71.5,2.75
+691,2019,Dominican republic,75,3
+692,2019,Tanzania,70,2.75
+693,2019,Dominican republic,75,2.5
+694,2010,Ecuador,72,3.75
+695,2010,Peru,70,3.75
+696,2010,Panama,70,3.5
+697,2010,Ecuador,70,2.5
+698,2011,Honduras,72,3.75
+699,2011,Dominican republic,65,3.5
+700,2011,Venezuela,71,3.5
+701,2011,Nicaragua,71,3.25
+702,2011,Panama,72,3
+703,2012,Venezuela,72,3.75
+704,2014,Nicaragua,76,3.75
+705,2014,Nicaragua,70,3.5
+706,2015,Guatemala,70,4
+707,2017,Nigeria,70,2.75
+708,2018,Guatemala,80,3.25
+709,2019,Philippines,70,3.5
+710,2015,Dominican republic,70,3.25
+711,2015,Ecuador,70,4
+712,2015,Peru,70,3.5
+713,2015,Venezuela,70,3.5
+714,2015,Dominican republic,70,3.25
+715,2015,Venezuela,70,3.25
+716,2018,Peru,70,4
+717,2014,Dominican republic,70,3.75
+718,2014,Madagascar,70,3.5
+719,2014,Peru,70,3.25
+720,2016,Colombia,70,3.25
+721,2016,Colombia,70,3.25
+722,2012,Peru,72,2.75
+723,2019,Peru,80,3.5
+724,2016,Venezuela,68,3
+725,2008,Bolivia,71,2.75
+726,2011,Bolivia,75,3.75
+727,2006,Venezuela,70,2.75
+728,2008,Venezuela,61,3
+729,2008,Venezuela,74,2.5
+730,2008,Venezuela,58,2.5
+731,2009,Venezuela,70,3
+732,2009,Venezuela,60.5,2.75
+733,2015,Venezuela,70,3.75
+734,2019,Guatemala,70,3.5
+735,2013,St. lucia,70,3.25
+736,2013,St. lucia,60,2.75
+737,2015,Peru,78,3.5
+738,2015,Venezuela,79,3
+739,2018,Haiti,70,3.5
+740,2018,Guatemala,70,3.5
+741,2018,Madagascar,70,3.5
+742,2018,Dominican republic,70,3.25
+743,2016,Honduras,75,3.25
+744,2018,Vietnam,72,3
+745,2019,Trinidad,72,3.5
+746,2019,Tanzania,80,3
+747,2019,Sierra leone,70,2.5
+748,2014,Vietnam,70,3.25
+749,2014,Vietnam,74,3.25
+750,2014,Vietnam,80,3
+751,2008,Venezuela,72,3
+752,2009,Venezuela,81,3.5
+753,2009,Blend,74,2.75
+754,2009,Costa rica,65,2
+755,2012,Venezuela,70,2.75
+756,2011,Blend,62,2.75
+757,2011,Blend,55,2.5
+758,2011,Trinidad,55,2.5
+759,2011,Venezuela,70,2.5
+760,2011,Blend,62,2.5
+761,2014,Dominican republic,80,3.75
+762,2014,Ecuador,80,3.5
+763,2014,Belize,80,3
+764,2018,Guatemala,80,3.5
+765,2019,Peru,73,3
+766,2010,Brazil,75,2.75
+767,2016,Jamaica,76,3
+768,2016,Belize,76,2.75
+769,2016,Venezuela,76,2.5
+770,2006,Bolivia,68,4
+771,2006,Ecuador,72,3.5
+772,2006,Madagascar,64,3
+773,2006,Venezuela,65,3
+774,2006,Dominican republic,74,3
+775,2006,Blend,62,2
+776,2010,Grenada,58,3.5
+777,2014,Dominican republic,70,3.25
+778,2014,Dominican republic,80,3
+779,2014,Dominican republic,85,2.5
+780,2014,Puerto rico,65,2.25
+781,2020,Blend,70,3.25
+782,2020,Mexico,70,3
+783,2020,Honduras,70,2.75
+784,2020,Colombia,70,2.75
+785,2019,Vanuatu,72,3.75
+786,2019,Papua new guinea,72,3.5
+787,2019,Solomon islands,69,3.5
+788,2019,Philippines,73,3.25
+789,2018,Dominican republic,75,3.5
+790,2018,Colombia,75,3
+791,2018,Belize,75,2.75
+792,2018,Guatemala,75,2.75
+793,2018,India,68,3.5
+794,2018,Tanzania,70,3.5
+795,2018,Madagascar,70,3
+796,2014,Peru,72,2.75
+797,2016,Dominican republic,70,2.75
+798,2016,Dominican republic,80,2.75
+799,2016,Tanzania,67,3.75
+800,2016,Ecuador,75,3.5
+801,2016,Madagascar,70,2.75
+802,2018,Haiti,68,3.5
+803,2018,Philippines,70,3.25
+804,2018,Bolivia,70,3
+805,2018,Indonesia,70,3
+806,2018,Dominican republic,72,2.75
+807,2019,Madagascar,70,3.5
+808,2019,Mexico,70,3
+809,2019,Ecuador,70,3.75
+810,2019,Peru,70,3.75
+811,2019,Tanzania,70,3.25
+812,2019,Papua new guinea,70,3
+813,2019,Bolivia,70,3
+814,2019,Vanuatu,70,3
+815,2019,Colombia,70,3
+816,2012,Venezuela,70,3.75
+817,2012,Venezuela,60,3.5
+818,2014,Venezuela,70,3.75
+819,2014,Venezuela,70,3.5
+820,2018,Venezuela,72,3.5
+821,2018,Venezuela,70,3.25
+822,2018,Venezuela,70,3
+823,2018,Venezuela,85,3
+824,2018,Venezuela,60,2.5
+825,2014,Ghana,60,3.5
+826,2014,Madagascar,65,3.5
+827,2015,Costa rica,70,3.5
+828,2015,Peru,75,3.5
+829,2015,Vietnam,80,3
+830,2011,Peru,70,3.5
+831,2011,Dominican republic,65,3.5
+832,2012,Peru,66,3.5
+833,2012,Peru,70,2.5
+834,2012,Peru,81,2
+835,2013,Peru,66,3.5
+836,2014,Nicaragua,68,3.25
+837,2014,Costa rica,80,3
+838,2015,Guatemala,73,3.5
+839,2017,Peru,70,3.5
+840,2019,India,71,3.25
+841,2009,Venezuela,65,3.5
+842,2009,Jamaica,70,3.25
+843,2009,Jamaica,70,3
+844,2009,Jamaica,80,2.75
+845,2011,Venezuela,70,4
+846,2011,Dominican republic,72,3.5
+847,2011,Jamaica,70,3.5
+848,2011,Jamaica,70,3.25
+849,2011,Dominican republic,72,3.25
+850,2011,Venezuela,76,3.25
+851,2011,Madagascar,74,3
+852,2011,Ghana,74,2.75
+853,2011,Madagascar,74,2.75
+854,2012,Madagascar,74,4
+855,2012,Papua new guinea,69,4
+856,2012,Papua new guinea,69,3.5
+857,2012,Papua new guinea,69,3.5
+858,2012,Papua new guinea,69,3
+859,2013,Peru,70,4
+860,2013,Dominican republic,72,3.75
+861,2013,Peru,70,3.75
+862,2013,Dominican republic,72,3.25
+863,2014,Peru,70,3.5
+864,2014,Peru,70,3.5
+865,2014,Peru,70,3.5
+866,2014,Peru,70,3
+867,2017,Guatemala,70,3.75
+868,2017,Guatemala,70,3.5
+869,2017,Guatemala,70,3.5
+870,2018,Venezuela,72,3.5
+871,2018,Venezuela,72,3.25
+872,2017,Tanzania,70,3.75
+873,2017,Brazil,70,3.5
+874,2014,Peru,70,4
+875,2014,Belize,70,3.5
+876,2014,Madagascar,70,3.5
+877,2016,Nicaragua,70,3.5
+878,2017,Nicaragua,70,3.75
+879,2018,Guatemala,70,4
+880,2018,Nicaragua,70,4
+881,2018,Nicaragua,70,3.75
+882,2018,Nicaragua,70,3.75
+883,2018,Nicaragua,70,3.75
+884,2018,Nicaragua,68,3.5
+885,2018,Nicaragua,70,3.5
+886,2018,Nicaragua,70,3.25
+887,2018,Nicaragua,70,3.25
+888,2018,Nicaragua,60,3
+889,2018,Nicaragua,70,3
+890,2011,Nicaragua,70,3.5
+891,2011,Nicaragua,70,3.5
+892,2011,Nicaragua,70,3.25
+893,2012,Nicaragua,70,3.75
+894,2012,Nicaragua,70,3.25
+895,2012,Honduras,70,3.25
+896,2012,Nicaragua,70,3.25
+897,2013,Nicaragua,70,3.5
+898,2013,Nicaragua,70,3.25
+899,2014,Nicaragua,70,3.5
+900,2015,Nicaragua,85,3.25
+901,2015,Nicaragua,60,3
+902,2011,Costa rica,66,3.25
+903,2011,Costa rica,70,3
+904,2012,Peru,70,2.5
+905,2013,Dominican republic,70,3.75
+906,2013,Ecuador,75,3
+907,2014,Trinidad,70,3.75
+908,2014,Peru,76,3
+909,2016,Costa rica,74,4
+910,2016,Bolivia,74,3.75
+911,2019,Madagascar,74,3.75
+912,2019,Colombia,85,3.5
+913,2018,Venezuela,70,3.5
+914,2018,Madagascar,70,3
+915,2018,Tanzania,70,3
+916,2018,Taiwan,70,2.5
+917,2014,U.s.a.,85,2.5
+918,2015,Ghana,70,4
+919,2015,Dominican republic,70,3.5
+920,2015,Dominican republic,80,3.5
+921,2015,Madagascar,75,3.5
+922,2015,Madagascar,65,3.25
+923,2017,St. lucia,77,3.5
+924,2017,Venezuela,75,3.5
+925,2018,Guatemala,72,2.75
+926,2019,Venezuela,75,2.75
+927,2015,Brazil,66,3
+928,2016,Belize,70,3.5
+929,2018,Venezuela,70,3
+930,2019,Costa rica,73,3
+931,2019,Colombia,73,2.5
+932,2016,Guatemala,77,3.25
+933,2016,Nicaragua,77,3.25
+934,2016,Mexico,77,2.75
+935,2017,Peru,70,3.25
+936,2018,Belize,70,2.75
+937,2011,Vietnam,72,3
+938,2006,Blend,70,2.5
+939,2016,Madagascar,70,3.5
+940,2019,Peru,73,2.5
+941,2008,Grenada,71,2.5
+942,2009,Grenada,60,2.75
+943,2010,Grenada,82,3.25
+944,2009,Blend,64,3.25
+945,2009,Ecuador,64,3
+946,2009,Ghana,64,3
+947,2009,Blend,64,3
+948,2009,Venezuela,76,3
+949,2018,Madagascar,70,2.75
+950,2006,Madagascar,65,3.5
+951,2006,Ecuador,65,3.5
+952,2006,Blend,61,3.5
+953,2006,Colombia,65,3
+954,2006,Blend,61,3
+955,2006,Venezuela,65,2.5
+956,2007,Blend,72,3.5
+957,2008,Venezuela,65,3.5
+958,2008,Peru,65,3
+959,2008,Blend,64,3
+960,2009,Blend,70,3.5
+961,2009,U.s.a.,55,3
+962,2009,Blend,91,3
+963,2010,Trinidad,65,3
+964,2011,Blend,61,3.25
+965,2011,Blend,72,3.25
+966,2011,Blend,72,2.75
+967,2013,Ecuador,65,3.5
+968,2013,Jamaica,65,3.25
+969,2013,Haiti,65,2.75
+970,2013,Nicaragua,65,2.75
+971,2015,Blend,70,3.75
+972,2014,Blend,70,3.5
+973,2014,Dominican republic,75,3.25
+974,2014,U.s.a.,66,3.25
+975,2014,Blend,70,3
+976,2014,Blend,80,3
+977,2014,Papua new guinea,80,2.75
+978,2014,Blend,74,2.75
+979,2014,Blend,65,2.75
+980,2007,Ecuador,77,2.5
+981,2014,Ecuador,70,3
+982,2014,Ecuador,55,2.75
+983,2015,Brazil,77,3.5
+984,2015,Brazil,74,3.5
+985,2015,Brazil,67,3
+986,2016,Brazil,85,3.25
+987,2018,Brazil,75,3
+988,2019,Vietnam,70,3.25
+989,2019,India,70,3
+990,2019,Dominican republic,70,3.5
+991,2019,Tanzania,72,3.25
+992,2019,Peru,65,2.75
+993,2016,Peru,64,2.75
+994,2019,Venezuela,71,3
+995,2019,Indonesia,71,2.5
+996,2019,Blend,71,2.5
+997,2016,Belize,70,3.25
+998,2016,Costa rica,74,3.5
+999,2014,Ecuador,67,3.75
+1000,2014,U.s.a.,67,3.75
+1001,2014,Bolivia,67,3.5
+1002,2014,Bolivia,67,3
+1003,2016,U.s.a.,72,3.5
+1004,2016,Ecuador,70,3.5
+1005,2016,Ecuador,77,3.5
+1006,2016,Bolivia,72,4
+1007,2016,Bolivia,68,3.75
+1008,2015,Venezuela,74,3.5
+1009,2015,Uganda,57,2.75
+1010,2015,Ecuador,73,3.25
+1011,2015,Peru,70,3.25
+1012,2015,Madagascar,74,3
+1013,2015,Venezuela,70,3
+1014,2015,Tanzania,70,2.75
+1015,2018,Dominican republic,71,3.5
+1016,2018,Tanzania,70,3
+1017,2018,Madagascar,74,2.75
+1018,2018,Ecuador,73,2.5
+1019,2018,Peru,70,2.25
+1020,2016,Peru,66,3.5
+1021,2016,Dominican republic,75,3.25
+1022,2016,Madagascar,70,2.75
+1023,2016,Venezuela,72,2.75
+1024,2019,Ecuador,85,3.5
+1025,2019,Venezuela,68,3.25
+1026,2009,Ecuador,58,3.5
+1027,2009,Ecuador,58,3.25
+1028,2009,Ecuador,72,3
+1029,2009,Ecuador,80,2.5
+1030,2009,Ecuador,80,2
+1031,2009,Dominican republic,75,3.75
+1032,2009,Peru,70,3.5
+1033,2009,Dominican republic,70,2.75
+1034,2009,Ivory coast,70,2.5
+1035,2015,Ecuador,70,3.5
+1036,2015,Madagascar,70,3.5
+1037,2015,Trinidad,70,3.5
+1038,2015,Venezuela,70,3.5
+1039,2016,Peru,70,2.75
+1040,2014,Ecuador,72,2.5
+1041,2013,St. lucia,70,4
+1042,2015,St. lucia,70,2.75
+1043,2018,Colombia,75,2.75
+1044,2019,Honduras,72,3
+1045,2019,Tanzania,80,3
+1046,2008,St. lucia,72,3
+1047,2008,Sao tome,72,3
+1048,2008,Tanzania,75,2.75
+1049,2010,Venezuela,70,2.75
+1050,2011,St. lucia,65,3.25
+1051,2011,Ecuador,80,3
+1052,2011,St. lucia,65,3
+1053,2012,Madagascar,66,3.5
+1054,2013,Vietnam,80,3.5
+1055,2013,Ecuador,82,3.5
+1056,2013,Trinidad,75,3
+1057,2013,Ecuador,90,3
+1058,2013,Madagascar,72,3
+1059,2013,Ecuador,100,2.5
+1060,2013,Venezuela,70,3.75
+1061,2013,Venezuela,70,3.25
+1062,2014,Dominican republic,70,3.75
+1063,2014,Dominican republic,70,3.5
+1064,2014,Bolivia,70,3
+1065,2014,Bolivia,70,3
+1066,2014,Nicaragua,70,3
+1067,2015,Vietnam,70,3.5
+1068,2011,Venezuela,74,4
+1069,2011,Venezuela,70,4
+1070,2011,Venezuela,72,4
+1071,2011,Venezuela,72,4
+1072,2011,Venezuela,72,3.75
+1073,2011,Venezuela,72,3.75
+1074,2011,Venezuela,72,3.75
+1075,2011,Venezuela,72,3.5
+1076,2011,Venezuela,72,3.25
+1077,2013,Venezuela,72,3.75
+1078,2016,India,61,2.5
+1079,2012,Dominican republic,70,3.25
+1080,2012,Dominican republic,70,2.75
+1081,2014,Honduras,77,3
+1082,2017,Vietnam,72,3.25
+1083,2012,Peru,72,3
+1084,2012,Peru,72,2.75
+1085,2014,Madagascar,72,3.5
+1086,2014,Belize,72,3.25
+1087,2014,Dominican republic,72,3.25
+1088,2014,Peru,72,2.25
+1089,2018,St.vincent-grenadines,72,2.75
+1090,2015,Belize,70,3.5
+1091,2015,Dominican republic,70,2.75
+1092,2006,Ghana,71,2
+1093,2018,Venezuela,72,3.25
+1094,2017,Ecuador,78,3.75
+1095,2017,Venezuela,72,3.5
+1096,2017,Vietnam,65,3.5
+1097,2017,Ecuador,70,3.5
+1098,2017,Madagascar,68,3.5
+1099,2017,Jamaica,67,3
+1100,2017,Peru,75,3
+1101,2018,Colombia,73,3.25
+1102,2018,Trinidad,80,3.25
+1103,2018,India,66,3
+1104,2015,Madagascar,63,2.75
+1105,2020,Venezuela,75,2.75
+1106,2018,Thailand,70,3.75
+1107,2018,Thailand,70,3.5
+1108,2018,Thailand,70,3.5
+1109,2018,Thailand,70,3
+1110,2013,Dominican republic,70,3.5
+1111,2013,Dominican republic,55,3.25
+1112,2013,Dominican republic,62,3.25
+1113,2013,Dominican republic,82,3
+1114,2019,Dominican republic,68,3.75
+1115,2019,Dominican republic,65,3.75
+1116,2019,Dominican republic,71.5,3.5
+1117,2019,Dominican republic,70,3
+1118,2019,Dominican republic,72,3
+1119,2019,Tanzania,75,3.25
+1120,2019,Nicaragua,75,3
+1121,2019,Peru,75,3
+1122,2008,Ecuador,70,3.5
+1123,2008,Ecuador,70,3
+1124,2008,Ecuador,85,3
+1125,2008,Ecuador,85,3
+1126,2008,Ecuador,75,2.75
+1127,2008,Ecuador,85,2.75
+1128,2008,Ecuador,85,2.5
+1129,2008,Ecuador,75,2.5
+1130,2013,Dominican republic,70,3.75
+1131,2009,Mexico,72,2
+1132,2020,Colombia,70,3.25
+1133,2014,Dominican republic,60,3
+1134,2017,Mexico,70,3.25
+1135,2017,Belize,70,3
+1136,2017,Vietnam,70,3
+1137,2018,Mexico,70,3.75
+1138,2018,Philippines,70,3.25
+1139,2018,Madagascar,70,3
+1140,2019,Papua new guinea,70,3.25
+1141,2019,Colombia,70,3
+1142,2014,Madagascar,72,3.25
+1143,2014,Belize,90,3.25
+1144,2014,Dominican republic,72,3.25
+1145,2014,Dominican republic,72,3.25
+1146,2014,Belize,72,3
+1147,2014,Venezuela,72,2.75
+1148,2014,Peru,72,2.5
+1149,2016,Brazil,70,3.75
+1150,2016,Ecuador,70,3.75
+1151,2016,Haiti,70,3.25
+1152,2016,Peru,70,2.75
+1153,2014,Dominican republic,72.5,3
+1154,2014,Madagascar,72.5,3
+1155,2014,Uganda,72.5,2.5
+1156,2014,Ecuador,72.5,2.5
+1157,2009,Madagascar,64,3.5
+1158,2009,Bolivia,68,3
+1159,2010,Dominican republic,74,3.75
+1160,2010,Grenada,75,3.25
+1161,2010,Venezuela,71,3
+1162,2011,Ecuador,74,3.75
+1163,2012,Brazil,70,4
+1164,2012,Venezuela,68,3.75
+1165,2012,Peru,74,3.25
+1166,2019,Fiji,68,3
+1167,2018,Belize,70,3.25
+1168,2018,Guatemala,70,3.25
+1169,2018,Dominican republic,70,3
+1170,2018,Peru,75,3
+1171,2018,Belize,70,3.5
+1172,2018,Guatemala,70,3.5
+1173,2019,Peru,72,3.5
+1174,2008,Blend,74,3.5
+1175,2009,Blend,60,3.75
+1176,2009,Venezuela,69,3.5
+1177,2009,Ghana,68,3.25
+1178,2009,Blend,60,3
+1179,2011,Grenada,68,3.5
+1180,2012,Dominican republic,66,3.5
+1181,2013,Tobago,60,3.25
+1182,2013,Ecuador,56,3.25
+1183,2013,Blend,74,2.75
+1184,2018,Mexico,70,3.5
+1185,2018,Mexico,70,3.5
+1186,2018,Mexico,70,3
+1187,2014,Cuba,70,2.75
+1188,2014,Blend,68,2.75
+1189,2015,Vietnam,75,3.75
+1190,2015,Sao tome,75,3.5
+1191,2015,Peru,75,3.25
+1192,2015,Brazil,75,3.25
+1193,2015,Cuba,75,3
+1194,2015,Ivory coast,75,3
+1195,2015,Madagascar,75,2.75
+1196,2015,Vietnam,75,2.75
+1197,2012,Venezuela,75,3
+1198,2012,Venezuela,75,3
+1199,2012,Blend,72,3
+1200,2016,Nicaragua,80,3.5
+1201,2018,Nicaragua,73,3.5
+1202,2018,Honduras,70,3.25
+1203,2018,Nicaragua,71,3
+1204,2017,Bolivia,74,3.75
+1205,2019,Peru,70,3.5
+1206,2019,Costa rica,70,3.25
+1207,2019,Colombia,70,2.75
+1208,2014,Peru,70,3.5
+1209,2015,Trinidad,70,3.5
+1210,2015,Tanzania,70,3.5
+1211,2015,Bolivia,70,3.25
+1212,2015,Dominican republic,70,3.25
+1213,2015,Costa rica,70,3
+1214,2016,Liberia,70,3.25
+1215,2017,Peru,70,4
+1216,2017,Honduras,70,3.5
+1217,2017,Belize,70,3.25
+1218,2018,Ghana,70,3.75
+1219,2019,Jamaica,70,3.25
+1220,2019,Bolvia,70,3.25
+1221,2014,Madagascar,71,3.5
+1222,2016,Madagascar,70,3
+1223,2012,Peru,68,3.75
+1224,2012,Peru,65,3.5
+1225,2012,Bolivia,68,3.5
+1226,2012,Bolivia,68,3.5
+1227,2012,Dominican republic,74,3
+1228,2012,Blend,75,2.75
+1229,2007,Blend,85,3
+1230,2013,Puerto rico,65,2.5
+1231,2013,U.s.a.,70,3.5
+1232,2013,U.s.a.,71,3
+1233,2013,U.s.a.,72,3
+1234,2014,U.s.a.,70,3.75
+1235,2014,U.s.a.,75,3.75
+1236,2014,U.s.a.,65,3.25
+1237,2015,Nicaragua,75,2
+1238,2018,Nicaragua,78,3.5
+1239,2018,Nicaragua,80,3.25
+1240,2018,Sumatra,70,3
+1241,2018,Nicaragua,75,2.5
+1242,2017,Brazil,81,3.25
+1243,2018,Brazil,70,3
+1244,2010,Colombia,65,3.5
+1245,2010,Blend,60,3
+1246,2010,Blend,58,3
+1247,2010,Blend,46,2.75
+1248,2019,Ghana,75,2.75
+1249,2019,Uganda,75,2.5
+1250,2008,Madagascar,63,4
+1251,2008,Madagascar,70,3.75
+1252,2008,Madagascar,67,3.5
+1253,2008,Madagascar,75,3.5
+1254,2010,Mexico,72,2.75
+1255,2011,Costa rica,70,2.75
+1256,2011,Dominican republic,70,2.5
+1257,2012,U.s.a.,70,3.5
+1258,2012,U.s.a.,70,3.25
+1259,2012,U.s.a.,70,3.25
+1260,2013,Brazil,70,3.5
+1261,2013,Puerto rico,70,2.75
+1262,2013,U.s.a.,70,2.75
+1263,2013,Mexico,70,2.75
+1264,2017,Solomon islands,73,3.5
+1265,2008,Dominican republic,70,3.75
+1266,2008,Cuba,70,3.25
+1267,2008,Ecuador,70,3
+1268,2008,Tanzania,75,2
+1269,2010,Ecuador,70,2
+1270,2007,Madagascar,73,3.5
+1271,2007,Madagascar,75,2.75
+1272,2013,Philippines,65,3.5
+1273,2018,Thailand,70,2.75
+1274,2009,U.s.a.,55,2.75
+1275,2010,U.s.a.,55,3.5
+1276,2016,Venezuela,70,3
+1277,2012,Dominican republic,74,3.75
+1278,2014,Venezuela,74,2.75
+1279,2014,Peru,74,2.5
+1280,2015,Ecuador,74,2.5
+1281,2014,Colombia,70,2.75
+1282,2012,Liberia,72,3.25
+1283,2012,U.s.a.,72,3.25
+1284,2012,Peru,72,3
+1285,2012,U.s.a.,72,2.75
+1286,2013,U.s.a.,72,3.75
+1287,2015,Costa rica,72,3.75
+1288,2015,Papua new guinea,72,3.5
+1289,2017,Peru,70,3.25
+1290,2019,U.s.a.,70,3.5
+1291,2012,Ghana,70,3.5
+1292,2012,Dominican republic,70,3.25
+1293,2012,Ecuador,70,3.25
+1294,2014,Venezuela,70,3.75
+1295,2014,Colombia,85,3.5
+1296,2016,Nicaragua,70,3.75
+1297,2016,Peru,70,3.5
+1298,2015,Dominican republic,70,3.5
+1299,2015,Peru,62,3.5
+1300,2015,Ecuador,70,3.5
+1301,2015,Nicaragua,70,3.5
+1302,2015,Peru,68,3.5
+1303,2015,Honduras,78,3.5
+1304,2015,Tanzania,72,3
+1305,2015,Trinidad,70,2.75
+1306,2015,Colombia,75,2.75
+1307,2016,Vietnam,75,3.25
+1308,2017,Vietnam,73,3
+1309,2018,Dominican republic,72,3.5
+1310,2018,Mexico,72,3.25
+1311,2018,Blend,72,3
+1312,2016,Peru,70,3
+1313,2016,Peru,70,3
+1314,2016,Peru,70,2.75
+1315,2016,Blend,75,3.25
+1316,2018,Haiti,75,2.75
+1317,2012,Vietnam,76,3.5
+1318,2012,Vietnam,72,3.5
+1319,2012,Vietnam,70,3.5
+1320,2012,Vietnam,78,3.5
+1321,2012,Vietnam,74,3.5
+1322,2012,Vietnam,80,3
+1323,2013,Vietnam,75,3.5
+1324,2015,Vietnam,70,3.75
+1325,2015,Vietnam,68,3.5
+1326,2015,Vietnam,85,3.25
+1327,2018,Vietnam,75,3.5
+1328,2013,Dominican republic,89,2.5
+1329,2013,Dominican republic,74,2.25
+1330,2016,Colombia,74,3.25
+1331,2016,Haiti,82,3
+1332,2016,Bolivia,76,2.75
+1333,2010,Dominican republic,70,3.25
+1334,2010,Venezuela,75,3
+1335,2010,Venezuela,81,2.75
+1336,2011,Dominican republic,74,3.75
+1337,2011,Blend,72,3.5
+1338,2011,Belize,70,3.5
+1339,2011,Dominican republic,73,3.25
+1340,2011,Venezuela,76,3
+1341,2011,Venezuela,70,3
+1342,2011,Peru,75,3
+1343,2011,Venezuela,81,2.75
+1344,2011,Papua new guinea,71,2.75
+1345,2012,Blend,73,3.5
+1346,2012,Venezuela,73,2.75
+1347,2012,Blend,72,2.5
+1348,2014,Blend,75,3.75
+1349,2015,Tanzania,74,3.25
+1350,2015,Guatemala,76,3
+1351,2013,Madagascar,68,4
+1352,2013,Papua new guinea,74,4
+1353,2013,Blend,70,3.75
+1354,2013,Vanuatu,72,3.5
+1355,2014,Peru,63,3.5
+1356,2014,Belize,70,3.25
+1357,2014,Dominican republic,70,3.25
+1358,2014,Peru,82,3.25
+1359,2020,Madagascar,65,3.25
+1360,2020,U.s.a.,70,3
+1361,2020,Vietnam,75,3
+1362,2016,Dominican republic,72,3
+1363,2020,Belize,70,3.25
+1364,2020,Guatemala,70,2.5
+1365,2014,Dominican republic,70,3.5
+1366,2014,Belize,70,3
+1367,2014,Nicaragua,70,3
+1368,2014,Venezuela,70,2.75
+1369,2014,Bolivia,70,2.5
+1370,2019,Philippines,70,3.25
+1371,2019,Tanzania,70,3.25
+1372,2019,Dominican republic,70,2.75
+1373,2019,Ecuador,85,2.5
+1374,2012,Madagascar,80,2.5
+1375,2012,Madagascar,72,2.5
+1376,2014,Honduras,70,3.5
+1377,2014,Nicaragua,80,3.5
+1378,2014,Honduras,80,3.25
+1379,2014,Nicaragua,70,3.25
+1380,2015,El salvador,70,3
+1381,2015,El salvador,80,2.75
+1382,2018,Brazil,75,2.5
+1383,2014,Madagascar,72,3.5
+1384,2014,Brazil,70,3
+1385,2018,Solomon islands,67,3.75
+1386,2018,Solomon islands,72,3.25
+1387,2015,Blend,70,3.5
+1388,2018,Peru,70,3.5
+1389,2006,Dominican republic,67,3.75
+1390,2006,Madagascar,65,3.75
+1391,2006,Papua new guinea,64,3.75
+1392,2006,Sao tome,70,3
+1393,2006,Blend,60,2
+1394,2006,Blend,85,2
+1395,2006,Blend,99,2
+1396,2007,Venezuela,66,3.5
+1397,2007,Sao tome,67,3.5
+1398,2012,Mexico,66,3.75
+1399,2017,Colombia,69,3.25
+1400,2019,Guatemala,70,3.5
+1401,2019,Brazil,70,3
+1402,2012,Indonesia,70,2.5
+1403,2012,Bolivia,75,2
+1404,2012,Blend,65,1.5
+1405,2013,Belize,80,3.25
+1406,2013,Dominican republic,75,2.5
+1407,2015,Dominican republic,75,3.75
+1408,2015,Venezuela,75,3.75
+1409,2015,Belize,80,3.5
+1410,2015,Trinidad,70,3.5
+1411,2015,Nicaragua,70,3.5
+1412,2015,Tanzania,75,3.25
+1413,2018,Belize,70,3.5
+1414,2018,India,70,3.25
+1415,2018,Peru,70,3.25
+1416,2018,Dominican republic,70,3
+1417,2012,Ecuador,70,3.5
+1418,2013,Ecuador,70,2.5
+1419,2019,Ecuador,70,3
+1420,2019,India,74,3
+1421,2019,Brazil,76,3
+1422,2018,Peru,70,3.75
+1423,2018,Madagascar,70,3.5
+1424,2018,Vietnam,70,3.25
+1425,2018,Brazil,70,3
+1426,2010,Ecuador,77,2.75
+1427,2019,Ecuador,67,2.75
+1428,2016,Haiti,70,3.5
+1429,2017,Vietnam,65,3.5
+1430,2017,Madagascar,72,3.25
+1431,2017,Papua new guinea,72,3
+1432,2019,Tanzania,72,3.75
+1433,2020,Vietnam,70,3.5
+1434,2015,Brazil,70,3.5
+1435,2016,Brazil,75,3.75
+1436,2019,Puerto rico,70,3
+1437,2010,Belize,67,2.75
+1438,2013,Belize,73,3.25
+1439,2013,Belize,72,3
+1440,2018,Cameroon,68,3
+1441,2018,Brazil,72,2.5
+1442,2019,Tanzania,72,3.75
+1443,2019,Dominican republic,70,3.5
+1444,2019,Sierra leone,72,3
+1445,2015,Peru,70,3.25
+1446,2015,Dominican republic,70,3
+1447,2015,Indonesia,70,2.75
+1448,2011,Nicaragua,70,2.75
+1449,2011,Nicaragua,70,2.75
+1450,2018,Nicaragua,70,3.25
+1451,2016,Dominican republic,72,3.5
+1452,2018,Mexico,70,3.25
+1453,2020,Mexico,70,3
+1454,2015,Nicaragua,70,3.5
+1455,2015,Nicaragua,80,3.5
+1456,2018,Venezuela,70,3.5
+1457,2016,Vietnam,80,3
+1458,2016,Dominican republic,71,2.75
+1459,2016,Tanzania,68,2.75
+1460,2016,Madagascar,68,2.75
+1461,2013,Costa rica,70,3
+1462,2013,Costa rica,58,2.5
+1463,2012,Grenada,71,2.5
+1464,2013,Blend,70,3.75
+1465,2013,Peru,78,3.75
+1466,2014,Nicaragua,70,3.25
+1467,2014,Venezuela,70,3
+1468,2014,Venezuela,75,2.75
+1469,2019,El salvador,70,3.25
+1470,2019,Nicaragua,67,2.75
+1471,2014,Ghana,70,3.5
+1472,2014,Dominican republic,70,2.5
+1473,2014,Madagascar,73.5,2.5
+1474,2014,Peru,72,2.25
+1475,2018,Dominican republic,70,3.25
+1476,2006,Venezuela,71,3
+1477,2006,Sao tome,75,2.75
+1478,2006,Blend,73,2
+1479,2007,Blend,73,1
+1480,2008,Trinidad,67,3.75
+1481,2010,Papua new guinea,70,2.5
+1482,2015,Madagascar,72,3
+1483,2015,Peru,72,3
+1484,2015,Dominican republic,72,2.75
+1485,2015,Venezuela,72,2.25
+1486,2018,Brazil,72,3
+1487,2013,Ecuador,75,3.5
+1488,2013,Peru,75,2.75
+1489,2019,Ecuador,72,3.75
+1490,2018,Peru,70,3
+1491,2018,Tanzania,72,3
+1492,2018,Dominican republic,72,3
+1493,2018,Vietnam,72,2.75
+1494,2019,Colombia,72,3.25
+1495,2019,Fiji,74,2.75
+1496,2014,Peru,75,3.25
+1497,2014,Ghana,75,3
+1498,2014,Belize,75,3
+1499,2012,Ecuador,80,3.25
+1500,2012,Nicaragua,70,3
+1501,2012,Nicaragua,75,2.75
+1502,2015,Ghana,70,3.75
+1503,2015,Dominican republic,70,3.75
+1504,2015,Madagascar,70,3.5
+1505,2015,Venezuela,70,3
+1506,2015,Ecuador,70,2.75
+1507,2020,Vietnam,70,3.25
+1508,2020,Nigeria,70,3
+1509,2016,Brazil,70,3.5
+1510,2010,Jamaica,70,2.5
+1511,2015,Peru,70,3.75
+1512,2019,Peru,70,3.75
+1513,2015,Peru,75,4
+1514,2015,Congo,70,3.75
+1515,2014,Papua new guinea,74,3.5
+1516,2014,Papua new guinea,88,3.25
+1517,2014,Papua new guinea,70,3
+1518,2014,Papua new guinea,66,2.75
+1519,2016,Samoa,70,3.5
+1520,2016,Samoa,100,2.75
+1521,2015,Tanzania,70,3
+1522,2015,Trinidad,70,2.75
+1523,2011,Bolivia,70,3.5
+1524,2018,Brazil,78,3.75
+1525,2009,Blend,75,3
+1526,2009,Blend,67,2.75
+1527,2010,Dominican republic,72,3
+1528,2010,Ghana,72,3
+1529,2011,Blend,85,3
+1530,2011,Blend,76,2.75
+1531,2011,Blend,85,2.75
+1532,2011,Blend,76,2
+1533,2011,Ghana,80,2.75
+1534,2014,Madagascar,66,3.5
+1535,2014,Papua new guinea,70,3
+1536,2016,Tanzania,70,3.75
+1537,2018,Nicaragua,73,3
+1538,2013,Dominican republic,72,3
+1539,2013,Ecuador,72,3
+1540,2013,Belize,74,2.75
+1541,2013,Dominican republic,72,2.75
+1542,2013,Nicaragua,72,2.75
+1543,2018,Panama,71,3
+1544,2009,Bolivia,68,3.25
+1545,2009,Congo,70,3
+1546,2009,Peru,75,3
+1547,2011,Bolivia,66,3.75
+1548,2014,Blend,80,3.25
+1549,2014,Papua new guinea,68,2.75
+1550,2006,U.s.a.,60,3
+1551,2009,U.s.a.,60,3
+1552,2012,Peru,65,3
+1553,2012,Peru,72,3
+1554,2008,Ecuador,70,3.5
+1555,2008,Ecuador,72,3
+1556,2008,Ecuador,65,3
+1557,2008,Ecuador,60,2.75
+1558,2011,Ecuador,70,3.5
+1559,2012,Peru,70,4
+1560,2012,Ecuador,85,2.75
+1561,2014,Ecuador,70,4
+1562,2014,Ecuador,70,3.75
+1563,2014,Ecuador,70,3.5
+1564,2014,Ecuador,70,3.25
+1565,2016,Colombia,70,4
+1566,2018,Cuba,72,3.75
+1567,2018,Haiti,70,3.5
+1568,2018,Vietnam,72,3.25
+1569,2014,Madagascar,78,3.75
+1570,2014,Trinidad,70,3.75
+1571,2014,Blend,75,3.5
+1572,2014,Bolivia,72,2.75
+1573,2014,Ecuador,75,2.75
+1574,2015,Vietnam,72,3.75
+1575,2015,Tanzania,72,3.5
+1576,2015,Bolivia,70,3.25
+1577,2015,Trinidad,70,3.25
+1578,2016,Belize,72,3
+1579,2016,Guatemala,70,2.75
+1580,2017,Haiti,70,3.5
+1581,2017,Peru,72,2.75
+1582,2017,Dominican republic,75,2.75
+1583,2019,Peru,70,3.5
+1584,2016,Fiji,76,3
+1585,2019,Peru,71,3.5
+1586,2019,Belize,75,3.25
+1587,2019,Madagascar,76,3.25
+1588,2019,Dominican republic,76,3.25
+1589,2019,Philippines,76,3
+1590,2019,Bolivia,76,2.75
+1591,2014,Blend,65,3.5
+1592,2014,Dominican republic,70,3.5
+1593,2014,Bolivia,70,3
+1594,2015,Guatemala,70,3.5
+1595,2016,Tanzania,70,3.25
+1596,2019,Colombia,75,3
+1597,2019,Guatemala,75,2.75
+1598,2019,Dominican republic,75,2.75
+1599,2013,Peru,70,2.75
+1600,2013,Peru,55,2.5
+1601,2007,Madagascar,70,4
+1602,2009,Madagascar,75,4
+1603,2009,Madagascar,67,3.5
+1604,2009,Venezuela,70,3.5
+1605,2011,Blend,70,3.75
+1606,2013,Peru,67,4
+1607,2014,Madagascar,64,2.75
+1608,2014,Madagascar,73,2.25
+1609,2015,Dominican republic,82,3
+1610,2018,Fiji,75,3
+1611,2019,Peru,70,3.25
+1612,2006,Mexico,72,4
+1613,2006,Venezuela,72,3.75
+1614,2006,Indonesia,72,3
+1615,2007,Blend,70,4
+1616,2007,Madagascar,72,4
+1617,2007,Ecuador,72,3.75
+1618,2007,Blend,85,3.5
+1619,2009,Brazil,72,3
+1620,2009,Mexico,72,3
+1621,2010,Cuba,78,3.75
+1622,2010,Trinidad,75,3.25
+1623,2010,Venezuela,75,3
+1624,2010,Peru,85,3
+1625,2015,Cameroon,70,3.25
+1626,2019,Madagascar,76,3
+1627,2019,Cameroon,70,3
+1628,2020,Tanzania,70,3.5
+1629,2020,India,73,3.5
+1630,2020,Vietnam,70,3
+1631,2016,Honduras,80,2.5
+1632,2014,Ecuador,73,3.5
+1633,2014,Madagascar,73,3.25
+1634,2014,Ecuador,73,3.25
+1635,2014,Fiji,73,2.5
+1636,2015,Nicaragua,80,3.25
+1637,2015,Nicaragua,80,2.75
+1638,2015,Nicaragua,80,2.75
+1639,2015,Nicaragua,80,2.75
+1640,2015,Nicaragua,62,2.5
+1641,2012,Peru,82,2.75
+1642,2012,Dominican republic,76,2.5
+1643,2010,Costa rica,82,3.75
+1644,2011,Costa rica,70,3.5
+1645,2011,Brazil,70,3.5
+1646,2011,Costa rica,70,3
+1647,2011,Peru,70,2.75
+1648,2014,Venezuela,70,3.75
+1649,2016,Dominican republic,70,3.75
+1650,2018,Colombia,70,4
+1651,2006,Jamaica,75,3.75
+1652,2006,Ecuador,80,3.75
+1653,2006,Blend,75,3.5
+1654,2006,Vanuatu,75,3
+1655,2006,Cuba,75,3
+1656,2006,Blend,75,3
+1657,2006,Brazil,75,3
+1658,2007,Sao tome,75,4
+1659,2008,Brazil,75,3.5
+1660,2008,Madagascar,100,3
+1661,2008,Dominican republic,75,2
+1662,2009,Venezuela,75,2
+1663,2010,Venezuela,75,3.5
+1664,2011,Venezuela,75,3.25
+1665,2015,Peru,75,3.25
+1666,2019,Sao tome & principe,75,3.5
+1667,2019,Tanzania,75,3.5
+1668,2019,Ecuador,75,3.5
+1669,2019,Trinidad,75,3.25
+1670,2019,Ghana,75,3.25
+1671,2019,Papua new guinea,75,3
+1672,2019,Papua new guinea,75,3
+1673,2019,Indonesia,75,3
+1674,2019,Venezuela,75,3
+1675,2019,Madagascar,75,3
+1676,2019,Colombia,75,3
+1677,2018,Tanzania,75,3.25
+1678,2018,Peru,75,3.25
+1679,2019,Vietnam,70,2.75
+1680,2014,Madagascar,72,3.25
+1681,2014,Ecuador,75,3
+1682,2014,Venezuela,75,2.75
+1683,2014,Ecuador,85,2.75
+1684,2015,Grenada,70,3.5
+1685,2015,Madagascar,74,3.5
+1686,2015,Honduras,80,2.75
+1687,2016,Ecuador,77,3.5
+1688,2017,Jamaica,75,3.75
+1689,2018,Solomon islands,72,3.25
+1690,2012,Venezuela,73,2.75
+1691,2017,Dominican republic,65,3.75
+1692,2017,Vietnam,75,3.5
+1693,2017,Philippines,66,3.5
+1694,2017,Ecuador,73,3.25
+1695,2017,Papua new guinea,75,3.25
+1696,2012,Brazil,65,3.25
+1697,2012,Brazil,60,3
+1698,2013,Brazil,85,3.5
+1699,2013,Brazil,75,3.25
+1700,2013,Brazil,80,3.25
+1701,2013,Brazil,55,2.75
+1702,2018,Peru,70,3
+1703,2019,Peru,70,3.75
+1704,2020,Peru,70,3.5
+1705,2016,Mexico,74,3
+1706,2016,Mexico,70,2.75
+1707,2011,Dominican republic,85,3.5
+1708,2012,Madagascar,75,3.25
+1709,2015,Congo,75,2.75
+1710,2016,Peru,70,3
+1711,2017,Haiti,70,3.5
+1712,2017,Haiti,70,3.25
+1713,2010,Guatemala,70,2.75
+1714,2015,Peru,73,3.5
+1715,2015,Peru,80,3.25
+1716,2015,Peru,70,2.5
+1717,2016,Peru,75,3.25
+1718,2018,Tanzania,72,3.75
+1719,2018,Peru,72,3.75
+1720,2018,Ecuador,72,3.5
+1721,2019,Dominican republic,72,3.5
+1722,2019,Nicaragua,72,3.5
+1723,2007,Ecuador,75,3.75
+1724,2007,Ecuador,67,3.5
+1725,2007,Ecuador,75,3
+1726,2009,Ecuador,75,2.5
+1727,2010,Ecuador,75,3.25
+1728,2011,Costa rica,75,3.5
+1729,2012,Madagascar,75,4
+1730,2012,Trinidad,75,3.5
+1731,2012,Ecuador,75,3.25
+1732,2013,Belize,75,3.75
+1733,2013,Peru,75,3
+1734,2015,Ecuador,85,3.5
+1735,2015,Blend,70,3.5
+1736,2016,Ecuador,75,3.75
+1737,2017,Mexico,75,3.75
+1738,2019,Nicaragua,70,3.5
+1739,2019,Trinidad,80,3.5
+1740,2018,Tanzania,72,3
+1741,2019,Fiji,70,2.5
+1742,2019,Peru,70,2.5
+1743,2016,Costa rica,70,3.25
+1744,2016,Costa rica,70,3.25
+1745,2016,Costa rica,70,3.25
+1746,2013,Madagascar,75,3.25
+1747,2013,Madagascar,68,3.25
+1748,2008,Madagascar,70,3
+1749,2008,Trinidad,70,3
+1750,2008,Dominican republic,70,2.75
+1751,2008,Jamaica,70,2.75
+1752,2009,Venezuela,70,3.5
+1753,2010,Peru,75,3.75
+1754,2011,Bolivia,75,3
+1755,2012,Ecuador,75,3.75
+1756,2013,Bolivia,75,4
+1757,2013,Jamaica,75,3.75
+1758,2013,Madagascar,70,3.5
+1759,2013,Dominican republic,70,3.5
+1760,2014,Venezuela,80,3.75
+1761,2015,Venezuela,70,3.75
+1762,2015,Bolivia,75,3.25
+1763,2016,Honduras,75,3.75
+1764,2011,Venezuela,73,3.5
+1765,2011,Venezuela,70,3.5
+1766,2011,Principe,77,2.75
+1767,2011,Venezuela,71,2.5
+1768,2012,Venezuela,84,2.5
+1769,2012,Madagascar,72,2.5
+1770,2012,Venezuela,76,2.25
+1771,2017,Venezuela,73,3.75
+1772,2017,Honduras,72,2.75
+1773,2018,Nicaragua,70,3.5
+1774,2018,Haiti,75,3
+1775,2012,Blend,69,3.25
+1776,2012,Blend,83,2.75
+1777,2008,Brazil,70,3.5
+1778,2008,Ecuador,70,3.5
+1779,2008,Venezuela,70,3.5
+1780,2008,Ecuador,70,3.5
+1781,2017,Ecuador,70,3.25
+1782,2006,Colombia,70,3.75
+1783,2006,Colombia,65,3
+1784,2006,Colombia,53,2
+1785,2009,Colombia,70,3
+1786,2009,Colombia,75,2.75
+1787,2011,Sao tome,70,2.75
+1788,2006,Blend,70,3.5
+1789,2006,Blend,62,3
+1790,2006,Blend,82,2
+1791,2006,Blend,68,2
+1792,2006,Jamaica,70,2
+1793,2007,Venezuela,75,3.75
+1794,2007,Blend,72,3
+1795,2007,Blend,62,3
+1796,2007,Blend,75,3
+1797,2008,Blend,72,3
+1798,2009,Ghana,65,4
+1799,2009,Brazil,68,3.75
+1800,2009,Vietnam,72,3.75
+1801,2010,Madagascar,65,3.75
+1802,2010,Grenada,68,3.5
+1803,2011,Papua new guinea,68,3.75
+1804,2012,Peru,78,4
+1805,2015,Dominican republic,70,2.75
+1806,2015,Grenada,70,2.75
+1807,2018,Tanzania,70,3.25
+1808,2018,Dominican republic,70,3
+1809,2018,Honduras,70,2.75
+1810,2019,Uganda,70,3.5
+1811,2019,Fiji,70,2.75
+1812,2019,Belize,70,3.5
+1813,2019,Guatemala,70,3
+1814,2019,Colombia,70,3
+1815,2014,Belize,72,3.25
+1816,2014,Ecuador,75,3
+1817,2015,Papua new guinea,73,3.5
+1818,2015,Dominican republic,74,3.5
+1819,2015,Jamaica,72,3.25
+1820,2015,Venezuela,77,2.75
+1821,2011,U.s.a.,73,2.5
+1822,2011,U.s.a.,73,2
+1823,2011,Peru,75,3.5
+1824,2016,Peru,70,3.25
+1825,2015,Costa rica,70,3.5
+1826,2015,Costa rica,82,3.25
+1827,2011,Sao tome,65,3.25
+1828,2011,Brazil,60,3.25
+1829,2011,Belize,67,3
+1830,2011,Colombia,68,3
+1831,2014,Madagascar,67,3.75
+1832,2014,Madagascar,73,3.75
+1833,2014,Ecuador,73,3.75
+1834,2015,Guatemala,73,3.25
+1835,2015,Haiti,73,3.25
+1836,2015,Madagascar,100,3
+1837,2015,Ecuador,100,3
+1838,2015,Guatemala,73,3
+1839,2016,Ecuador,73,3.75
+1840,2016,Bolivia,73,3.5
+1841,2016,Tanzania,73,3.5
+1842,2017,Peru,73,3.75
+1843,2015,Nicaragua,72,3
+1844,2015,Ghana,70,2.75
+1845,2015,Ecuador,72,4
+1846,2015,Tanzania,67,3.75
+1847,2015,Trinidad,70,3.75
+1848,2015,Venezuela,70,3.75
+1849,2015,Madagascar,70,3.5
+1850,2015,Papua new guinea,65,3.5
+1851,2015,Madagascar,65,3.25
+1852,2015,Peru,67,3
+1853,2015,Bolivia,72,2.75
+1854,2016,Ecuador,70,4
+1855,2016,Venezuela,70,3.75
+1856,2016,Belize,70,3.75
+1857,2016,Australia,67,3.75
+1858,2016,Guatemala,70,3.25
+1859,2016,Vietnam,70,3
+1860,2017,Dominican republic,70,3.5
+1861,2017,Haiti,70,3.5
+1862,2010,Ecuador,68,3.25
+1863,2010,Madagascar,68,3
+1864,2011,Ghana,67,1.5
+1865,2018,Sulawesi,66,3.25
+1866,2017,India,70,2.75
+1867,2015,Madagascar,72,3
+1868,2016,Ecuador,70,3.5
+1869,2016,Dominican republic,85,2.75
+1870,2016,Peru,68,2.75
+1871,2019,Philippines,70,2.5
+1872,2016,Solomon islands,70,3.25
+1873,2016,Solomon islands,75,3.25
+1874,2013,Blend,70,3.5
+1875,2013,Bolivia,70,3.25
+1876,2013,Peru,70,3.25
+1877,2013,Madagascar,70,3
+1878,2013,Venezuela,70,3
+1879,2014,Uganda,70,3
+1880,2017,Tanzania,70,3.25
+1881,2018,India,70,3.25
+1882,2009,Madagascar,70,3.75
+1883,2009,Venezuela,70,3.75
+1884,2009,Ghana,70,3.5
+1885,2009,Papua new guinea,70,3.5
+1886,2009,Dominican republic,70,3
+1887,2009,Dominican republic,70,3
+1888,2010,Blend,70,3.75
+1889,2011,Peru,64,4
+1890,2011,Blend,70,4
+1891,2011,Dominican republic,70,3.75
+1892,2011,Bolivia,70,3.5
+1893,2011,Venezuela,70,3.5
+1894,2011,Grenada,70,2.75
+1895,2012,Blend,70,4
+1896,2012,Blend,70,4
+1897,2012,U.s.a.,70,3.75
+1898,2012,Venezuela,70,3.75
+1899,2012,Guatemala,70,3.5
+1900,2012,Blend,70,3.5
+1901,2012,Papua new guinea,85,3.5
+1902,2012,Haiti,70,3.25
+1903,2013,Blend,88,4
+1904,2013,Venezuela,70,4
+1905,2013,Blend,67,4
+1906,2013,Jamaica,70,4
+1907,2013,Dominican republic,77,3.75
+1908,2013,Trinidad,70,3.75
+1909,2013,Venezuela,70,3.75
+1910,2013,Indonesia,70,3.25
+1911,2013,Blend,70,3.25
+1912,2013,Venezuela,70,3.25
+1913,2013,Peru,70,2.75
+1914,2014,Peru,70,3.75
+1915,2014,Vanuatu,70,3.75
+1916,2014,Nicaragua,70,3.5
+1917,2014,Ecuador,80,3.5
+1918,2014,Nicaragua,70,3.25
+1919,2014,Blend,70,3.25
+1920,2015,Venezuela,75,4
+1921,2015,Venezuela,70,3.5
+1922,2016,Vietnam,70,4
+1923,2016,Nicaragua,70,3.75
+1924,2016,Blend,75,3.75
+1925,2016,Dominican republic,62,3.5
+1926,2016,Madagascar,70,3.5
+1927,2016,Brazil,70,3.5
+1928,2016,Ecuador,70,3.25
+1929,2017,Colombia,70,4
+1930,2017,Fiji,70,3.25
+1931,2018,Madagascar,70,4
+1932,2018,Venezuela,70,4
+1933,2018,Haiti,70,3
+1934,2014,U.s.a.,70,3.5
+1935,2014,Nicaragua,70,3.25
+1936,2017,Madagascar,70,3.5
+1937,2017,Venezuela,75,3.5
+1938,2017,Tanzania,80,3.5
+1939,2017,Dominican republic,70,3.25
+1940,2017,Ecuador,75,3.25
+1941,2017,Papua new guinea,77,3.25
+1942,2012,Dominican republic,75,3.25
+1943,2012,Dominican republic,70,3
+1944,2012,Dominican republic,80,3
+1945,2014,Vanuatu,72,2.75
+1946,2016,Ecuador,70,3.75
+1947,2016,Madagascar,70,3.75
+1948,2016,Dominican republic,70,3.5
+1949,2017,Dominican republic,70,3.75
+1950,2017,Ecuador,70,3.5
+1951,2017,Peru,70,2.75
+1952,2013,Bolivia,70,3
+1953,2013,Dominican republic,70,3
+1954,2013,Dominican republic,84,2.25
+1955,2015,Ecuador,70,3
+1956,2015,Dominican republic,70,3
+1957,2015,Guatemala,70,3
+1958,2015,Nicaragua,70,3
+1959,2015,Madagascar,70,3
+1960,2011,India,72,3.25
+1961,2012,Brazil,68,2.75
+1962,2014,Ecuador,84,3.5
+1963,2014,Ecuador,70,3.5
+1964,2017,Bolivia,70,2.5
+1965,2012,Philippines,75,2.75
+1966,2012,Philippines,65,2.5
+1967,2012,Philippines,70,2.5
+1968,2013,Belize,78,3.25
+1969,2013,Madagascar,67,2.75
+1970,2016,Peru,71,3
+1971,2016,Peru,61,2.5
+1972,2016,Venezuela,60,3
+1973,2016,Venezuela,70,2.75
+1974,2015,Sri lanka,70,2.75
+1975,2019,Tanzania,74,2.75
+1976,2018,Venezuela,75,3.25
+1977,2018,Belize,70,3
+1978,2018,Brazil,70,3
+1979,2018,Tanzania,75,2.75
+1980,2018,Peru,70,2.5
+1981,2020,Peru,68,3.25
+1982,2020,Papua new guinea,73,3.25
+1983,2020,Mexico,74,3
+1984,2011,Venezuela,70,3
+1985,2012,Peru,70,3.75
+1986,2012,Dominican republic,70,3.25
+1987,2012,Madagascar,70,3.25
+1988,2013,Madagascar,70,3.5
+1989,2013,Madagascar,70,3.5
+1990,2013,Nicaragua,70,3.25
+1991,2014,Cuba,70,3.75
+1992,2014,Venezuela,70,3.5
+1993,2015,Ecuador,70,3.75
+1994,2015,Brazil,70,3.5
+1995,2015,Ecuador,70,3.25
+1996,2015,Cuba,88,3.25
+1997,2015,Madagascar,70,3.25
+1998,2015,Vietnam,70,3.25
+1999,2013,Peru,70,3
+2000,2013,Costa rica,70,2.75
+2001,2013,Dominican republic,70,2.75
+2002,2013,Mexico,70,2.5
+2003,2015,Papua new guinea,62,3.25
+2004,2015,Vietnam,60,3.25
+2005,2015,Colombia,70,3
+2006,2015,Trinidad,77,2.75
+2007,2019,Vietnam,75,3
+2008,2019,Vietnam,70,2.75
+2009,2016,Suriname,70,3.25
+2010,2019,Peru,75,4
+2011,2019,Peru,75,3.25
+2012,2019,Venezuela,75,3
+2013,2019,Mexico,70,3.25
+2014,2019,Nicaragua,72,3
+2015,2007,Dominican republic,70,3
+2016,2009,Mexico,75,2.75
+2017,2011,Bolivia,87,3.25
+2018,2014,Belize,68,3
+2019,2008,Madagascar,70,2.75
+2020,2008,Ghana,70,2.5
+2021,2008,Peru,70,2.5
+2022,2008,Peru,70,2.5
+2023,2009,Blend,68,3
+2024,2009,Blend,60,2.75
+2025,2016,Blend,62,2
+2026,2012,Dominican republic,70,3.5
+2027,2012,Brazil,70,3.5
+2028,2012,Ecuador,70,3.25
+2029,2012,Ecuador,70,3.25
+2030,2012,Mexico,70,3.25
+2031,2012,Bolivia,67,3.25
+2032,2012,Blend,70,3
+2033,2012,Papua new guinea,70,3
+2034,2012,Madagascar,70,3
+2035,2012,Venezuela,80,3
+2036,2012,Madagascar,70,2.75
+2037,2012,Bolivia,70,2.75
+2038,2012,Brazil,70,2.75
+2039,2012,Peru,70,2
+2040,2014,Madagascar,67,3.75
+2041,2014,Uganda,73,3.75
+2042,2014,Ecuador,77,3.25
+2043,2015,Belize,70,3.75
+2044,2015,Madagascar,70,3.75
+2045,2015,Guatemala,70,3.75
+2046,2015,Dominican republic,70,3.5
+2047,2015,Ecuador,70,3.25
+2048,2015,Peru,70,2.75
+2049,2019,Bolivia,77,3.25
+2050,2019,Belize,77,3
+2051,2019,Haiti,72,2.75
+2052,2015,Peru,70,3
+2053,2007,Madagascar,65,3.5
+2054,2007,Ghana,84,3
+2055,2007,Blend,75,3
+2056,2007,Ivory coast,75,2.5
+2057,2007,Venezuela,91,2
+2058,2012,Congo,65,3.25
+2059,2015,Peru,70,3.25
+2060,2019,Ecuador,70,3.5
+2061,2018,Colombia,70,3.25
+2062,2018,Colombia,70,3
+2063,2016,Belize,72,3.75
+2064,2019,Tanzania,71,2.75
+2065,2014,Ecuador,81,3.25
+2066,2011,Dominican republic,74,3
+2067,2011,Venezuela,72,2.75
+2068,2012,Bolivia,77,3
+2069,2018,Belize,70,3.5
+2070,2018,Bolivia,70,3
+2071,2018,Haiti,70,2.75
+2072,2019,Colombia,70,2.75
+2073,2019,Ecuador,70,3.5
+2074,2014,Dominican republic,72,3
+2075,2018,Peru,70,3.5
+2076,2018,Peru,73,3
+2077,2020,Peru,70,3
+2078,2020,Vietnam,70,2.75
+2079,2020,Honduras,70,2.75
+2080,2011,Dominican republic,73,2.75
+2081,2013,Dominican republic,68,3.25
+2082,2013,Bolivia,75,2.5
+2083,2014,Madagascar,75,3.5
+2084,2015,Ecuador,75,3.5
+2085,2015,Dominican republic,75,2.75
+2086,2017,Tanzania,75,3.25
+2087,2016,Peru,60,3
+2088,2017,Guatemala,75,3.25
+2089,2017,Tanzania,75,3
+2090,2017,Dominican republic,75,2.75
+2091,2014,Dominican republic,70,3
+2092,2014,Nicaragua,74,2.75
+2093,2016,Tanzania,72,3.25
+2094,2016,Madagascar,72,3
+2095,2014,Venezuela,65,3.25
+2096,2017,Colombia,70,3.75
+2097,2018,Nicaragua,70,3.75
+2098,2020,Belize,74,3.5
+2099,2006,Blend,70,3.75
+2100,2006,Madagascar,64,3.5
+2101,2006,Blend,66,3
+2102,2006,Venezuela,64,3
+2103,2006,Trinidad,64,2.5
+2104,2007,Madagascar,64,4
+2105,2007,Venezuela,65,3.75
+2106,2007,Venezuela,64,3.25
+2107,2007,Blend,72,3
+2108,2007,Blend,71,2.75
+2109,2007,Blend,85,2.5
+2110,2007,Blend,85,1.5
+2111,2009,Dominican republic,64,3.75
+2112,2009,Ecuador,66,3.75
+2113,2009,Ghana,68,3.5
+2114,2011,Venezuela,64,4
+2115,2011,Blend,56,3.25
+2116,2012,Venezuela,69,4
+2117,2013,Blend,70,3.5
+2118,2013,Dominican republic,64,3.5
+2119,2015,Peru,63,4
+2120,2017,Blend,60,3.25
+2121,2009,Madagascar,72,2.75
+2122,2009,Madagascar,76,2.75
+2123,2009,Madagascar,80,2.75
+2124,2015,Bolivia,70,3.25
+2125,2015,Bolivia,70,3.25
+2126,2018,Dominican republic,70,3.25
+2127,2018,Guatemala,70,3
+2128,2018,Bolivia,70,2.75
+2129,2012,Blend,70,3.25
+2130,2013,Blend,90,3.75
+2131,2014,Trinidad,75,3.5
+2132,2014,Ecuador,75,3.5
+2133,2014,Dominican republic,90,3.25
+2134,2012,Vietnam,70,3.5
+2135,2014,Peru,75,3
+2136,2007,Ecuador,65,3
+2137,2015,Peru,77,3.25
+2138,2015,Belize,77,3
+2139,2015,Venezuela,77,3
+2140,2015,Madagascar,77,2.75
+2141,2015,Guatemala,77,2.75
+2142,2016,Dominican republic,70,3
+2143,2016,Peru,70,2.5
+2144,2016,Venezuela,70,2.5
+2145,2018,Bolivia,70,2.5
+2146,2018,Haiti,70,2.5
+2147,2016,Dominican republic,70,3.5
+2148,2016,Peru,70,3.5
+2149,2017,Samoa,77,3
+2150,2018,Tanzania,68,3
+2151,2018,Bolivia,72,3
+2152,2013,Peru,75,3.25
+2153,2013,Peru,89,2.75
+2154,2013,Peru,75,2.75
+2155,2013,Peru,75,2.5
+2156,2009,Venezuela,72,3.25
+2157,2009,Peru,70,3
+2158,2010,Indonesia,69,3.75
+2159,2010,Venezuela,72,3.5
+2160,2010,Madagascar,71,3
+2161,2014,Colombia,88,3
+2162,2016,Colombia,70,4
+2163,2016,Ghana,75,3.75
+2164,2016,Bolivia,76,3.5
+2165,2016,Venezuela,74,3
+2166,2019,Venezuela,70,3.5
+2167,2019,Belize,68,3.25
+2168,2011,Venezuela,70,4
+2169,2011,Dominican republic,70,3.5
+2170,2012,Madagascar,70,3.25
+2171,2012,Costa rica,70,3
+2172,2012,Ecuador,70,2.5
+2173,2013,Trinidad,70,3.5
+2174,2013,Ecuador,70,3.25
+2175,2014,Peru,70,3
+2176,2013,Dominican republic,66,3
+2177,2019,El salvador,70,3.25
+2178,2019,El salvador,75,3
+2179,2019,El salvador,65,2.75
+2180,2017,Madagascar,70,2.75
+2181,2017,Dominican republic,70,2.5
+2182,2015,Belize,70,3.5
+2183,2015,Dominican republic,70,3.25
+2184,2015,Madagascar,70,3.25
+2185,2015,Peru,70,3.25
+2186,2015,Papua new guinea,70,3
+2187,2015,Blend,60,3
+2188,2016,Madagascar,70,3.5
+2189,2016,Tanzania,70,3.5
+2190,2016,Trinidad,78,3.5
+2191,2016,Tanzania,85,3
+2192,2016,Ecuador,70,2.75
+2193,2016,Trinidad,85,2.75
+2194,2011,Bolivia,72,3.75
+2195,2011,Bolivia,68,3.5
+2196,2011,Papua new guinea,66,3.5
+2197,2016,Solomon islands,78,3.75
+2198,2016,Blend,65,3.25
+2199,2018,Nicaragua,70,3.75
+2200,2018,Nicaragua,75,3.25
+2201,2018,Nicaragua,72,3
+2202,2018,Dr congo,68,3
+2203,2010,Brazil,65,3
+2204,2011,Peru,70,3.75
+2205,2011,India,65,3.5
+2206,2011,India,62,3.25
+2207,2011,Congo,65,3
+2208,2012,Dominican republic,62,3.75
+2209,2012,Dominican republic,70,3.75
+2210,2012,Panama,72,3.5
+2211,2012,Blend,65,3.5
+2212,2012,Peru,70,3.5
+2213,2012,Blend,58,3.5
+2214,2012,Bolivia,90,3.25
+2215,2012,Congo,68,3.25
+2216,2012,Peru,70,3
+2217,2012,Ecuador,75,3
+2218,2012,Papua new guinea,75,3
+2219,2014,Blend,80,2.75
+2220,2017,Colombia,75,3.75
+2221,2018,Belize,72,3.5
+2222,2018,Congo,70,3.25
+2223,2018,Blend,75,3
